@@ -1,0 +1,30 @@
+{
+  "name": "the_ally_contract",
+  "version": "0.0.1",
+  "description": "ICO smart contract for the-ally.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avishkarabhishek786/the_ally_contract.git"
+  },
+  "keywords": [
+    "ICO",
+    "ethereum"
+  ],
+  "author": "Abhishek Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avishkarabhishek786/the_ally_contract/issues"
+  },
+  "homepage": "https://github.com/avishkarabhishek786/the_ally_contract#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "v2.5",
+    "chai": "4.2.0",
+    "chai-as-promised": "7.1.1",
+    "chai-bignumber": "3.0.0",
+    "web3": "1.0.0-beta.55"
+  }
+}
